@@ -1,199 +1,203 @@
-# 👋 Hi, I'm Manasa L Hegde
+<div align="center">
 
-🎓 Information Science Engineering Student (VTU - DBIT)  
-📊 Aspiring Data Analyst & ML Engineer 
-☁️ Python | AI | AWS Enthusiast  
-💻 Passionate about Problem Solving & Real-World Projects  
+# Hi 👋, I'm Manasa L Hegde
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=900&lines=Information+Science+Engineering+Student;Aspiring+Data+Analyst;AI+%7C+Data+Science+%7C+Software+Development;Python+%7C+SQL+%7C+Power+BI+%7C+AWS;Always+Learning+Something+New+%F0%9F%9A%80" />
 
-# 🚀 About Me
+### 💡 Turning Data into Insights • Building AI Solutions • Solving Real-World Problems
 
-I am an Information Science undergraduate passionate about Data Analytics, Artificial Intelligence and Machine Learning.
+<p>
+<a href="https://github.com/Manasa-L-Hegde"><img src="https://komarev.com/ghpvc/?username=Manasa-L-Hegde&label=Profile%20Views&color=0e75b6&style=for-the-badge"/></a>
+<a href="https://github.com/Manasa-L-Hegde?tab=followers"><img src="https://img.shields.io/github/followers/Manasa-L-Hegde?style=for-the-badge&logo=github"/></a>
+<a href="https://github.com/Manasa-L-Hegde"><img src="https://img.shields.io/github/stars/Manasa-L-Hegde?affiliations=OWNER&style=for-the-badge"/></a>
+</p>
 
-I enjoy building practical projects, solving problems, exploring AI technologies, and continuously improving my technical skills through projects, certifications, hackathons, and coding practice.
-
-Currently focused on:
-- Data Analytics & Visualization
-- Generative AI
-- Python Development
-- Cloud & AWS Fundamentals
+</div>
 
 ---
 
-# 🛠️ Technical Skills
+# 👩‍💻 About Me
 
-## 👨‍💻 Programming Languages
-- Python
-- SQL
+🎓 Pre-Final Year Information Science & Engineering Student at **Don Bosco Institute of Technology**
 
-## 📊 Data Analytics
-- Excel
+📊 Aspiring **Data Analyst**
+
+🤖 Passionate about **Artificial Intelligence, Machine Learning & Data Science**
+
+🌱 Currently Learning
+
 - Power BI
-- Data Cleaning
-- Dashboard Creation
-- Data Visualization
+- AWS Cloud
+- Machine Learning
+- System Design
 
-## 🌐 Web Technologies
-- HTML
-- CSS
-- JavaScript(Basic)
-- Streamlit
+🚀 Building AI-powered applications that solve real-world problems.
 
-## ☁️ Cloud & AI
-- AWS Basics
-- Google Cloud Basics
-- Generative AI
-- Prompt Engineering
-
-## 🔧 Tools
-- Git & GitHub
-- VS Code
-- Jupyter Notebook
-- HackerRank
+🎯 Goal: Become a Data Analyst and AI Engineer while contributing to impactful open-source projects.
 
 ---
 
-# 📂 Featured Projects
+# 🚀 Current Focus
 
-## 🚀 DevFlow AI
-🔗 Repository:  
-https://github.com/Manasa-L-Hegde/DevFlow-AI
+- 🔹 AI Powered Data Drift Detection System
+- 🔹 DevFlow AI
+- 🔹 AirGuard AI
+- 🔹 Power BI Dashboards
+- 🔹 SQL & Data Analytics
+- 🔹 AWS Cloud
 
-AI-powered developer productivity assistant built using:
-- Python
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,mysql,sqlite,git,github,vscode,aws,linux,html,css,js"/>
+
+</p>
+
+---
+
+# 📊 Data Analytics
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql"/>
+
+</p>
+
+- Power BI
+- Excel
+- SQL
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-Learn
+
+---
+
+# 🤖 AI & Machine Learning
+
+- Machine Learning
+- Data Analysis
+- Predictive Analytics
+- Random Forest
 - Streamlit
-- Plotly
+- Gradio
+- IBM watsonx
 - Groq API
 
-### Features:
-- AI-powered developer assistance
-- Productivity workflows
-- Analytics visualization
-- Interactive UI
+---
+
+# 🚀 Featured Projects
+
+### 🤖 DevFlow AI
+
+AI-powered developer assistant with SQL generation, README generation and debugging.
 
 ---
 
-## 🤖 AI Study Assistant
-🔗 Repository:  
-https://github.com/Manasa-L-Hegde/AI-Study-Assistant
+### 🌍 AirGuard AI
 
-AI-powered learning assistant developed using Python and Streamlit to enhance study productivity and interactive learning experiences.
+Hyperlocal pollution hotspot detection using Machine Learning.
 
 ---
 
-## 📈 IPL Data Analysis Dashboard
-🔗 Repository:  
-https://github.com/Manasa-L-Hegde/IPL-Data-Analysis-Dashboard-Excel
+### 📊 IPL Analytics Dashboard
 
-- Analyzed IPL datasets (2008–2023)
-- Created interactive Excel dashboards
-- Visualized player statistics and team performance
-- Used Pivot Tables and Charts for insights
+Interactive Power BI dashboard with player and team insights.
 
 ---
 
-## 🛠️ Support Triage Agent
-🔗 Repository:  
-https://github.com/Manasa-L-Hegde/Support_Triage_Agent
+### 📈 AI Powered Data Drift Detection System
 
-AI-based support management and issue triaging project focused on improving ticket handling workflows.
+Detects data drift and automatically retrains machine learning models.
 
 ---
 
-## 🌍 Urban Heat Island
-🔗 Repository:  
-https://github.com/Manasa-L-Hegde/Urban_Heat_Island
+# 🏆 GitHub Stats
 
-Project focused on analyzing Urban Heat Island effects using data-driven approaches and visualization techniques.
+<p align="center">
 
---- 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Manasa-L-Hegde&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-## ⭐ ReviewSense
-🔗 Repository:  
-https://github.com/Manasa-L-Hegde/ReviewSense
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Manasa-L-Hegde&theme=tokyonight&hide_border=true"/>
 
-Review analysis and sentiment-based project focused on extracting meaningful insights from user reviews using AI and data analytics.
+</p>
 
 ---
 
-## 🎮 Simon Says Game
-🔗 Repository:  
-https://github.com/Manasa-L-Hegde/Simon-Says-Game
+# 📈 Most Used Languages
 
-Interactive browser-based memory game built using:
-- HTML
-- CSS
-- JavaScript
+<p align="center">
 
-### Features:
-- Interactive gameplay
-- Score tracking
-- Responsive UI
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manasa-L-Hegde&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-## 🎵 Spotify Clone
-🔗 Repository:  
-https://github.com/Manasa-L-Hegde/spotify-clone
+# 📊 Contribution Graph
 
-Frontend Spotify-inspired music player UI built using HTML, CSS, and JavaScript.
+<p align="center">
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manasa-L-Hegde&theme=tokyo-night&hide_border=true"/>
 
-# 📜 Certifications
-
-- SQL (Basic) — HackerRank
-- SQL (Intermediate) — HackerRank
-- AWS Cloud Practitioner Essentials — AWS
-- Deloitte Australia Data Analytics Job Simulation — Forage
-- Tata GenAI Powered Data Analytics Job Simulation — Forage
-- Introduction to Data Science — Cisco Networking Academy
-- AI Fluency for Students — Anthropic
-- Prompt Design in Vertex AI — Google Cloud
-- Startup School: Prompt to Prototype — Google for Startups
-- Gemini Certified Student — Google
-- Google Data Analytics Course(Ongoing)
-  (
-      Ask Questions to Make Data-Driven Decisions — Google
-      Foundations: Data, Data, Everywhere — Google
-  )
+</p>
 
 ---
 
-# 📈 Learning
+# 🏆 GitHub Trophies
 
-- Python
-- Data Analytics & Visualization(Excel ,Tableau,PowerBI)
-- MySQL
-- Machine Learning Basics
+<p align="center">
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=Manasa-L-Hegde&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
-# 🏆 Coding Profiles & Links
-
-💼 LinkedIn  
-https://www.linkedin.com/in/manasa-l-hegde
-
-💻 HackerRank  
-https://www.hackerrank.com/manasa_l_hegde
-
-🌐 Google Developer Profile  
-https://me.developers.google.com/u/ManasaHegde
-
-🎯 Google Skill Profile  
-https://www.skills.google/public_profiles/1955f914-009a-45fb-8b50-c80c3f74cdde
+</p>
 
 ---
 
-# ✨ Goals
+# 📚 Currently Learning
 
-- Become a skilled Data Analyst & ML Engineer
-- Build impactful AI-powered applications
-- Strengthen problem-solving skills
-- Contribute to real-world projects
-- Continuously learn and grow in tech
+- 📊 Advanced SQL
+- 📈 Power BI
+- ☁ AWS
+- 🤖 Machine Learning
+- 🧠 Deep Learning
+- ⚙ Data Engineering
 
 ---
 
-⭐ “Focused on learning, building, and improving every day.”
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/manasa-l-hegde-b999b92a6">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/Manasa-L-Hegde">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+> **"Every dataset has a story. My goal is to uncover it using Data, AI and Visualization."**
+
+---
+
+<div align="center">
+
+### 🚀 Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
+
+</div>
