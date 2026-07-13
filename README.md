@@ -63,10 +63,10 @@
 | Project | What it does | Stack |
 |---|---|---|
 | 🚌 [**Bengaluru Commute Decision Tool**](https://github.com/Manasa-L-Hegde/bengaluru-commute-decision-tool) | RandomForest commute predictor, R² = 0.97 | BigQuery · RAPIDS cuDF · Streamlit |
-| 🌫️ [**AirGuard AI**](https://huggingface.co/spaces/manasahegde/airguard.ai) | Multimodal urban pollution monitoring platform | DBSCAN · RandomForest · Gemini API · Gradio |
+| 🌫️ [**AirGuard AI**](https://github.com/Manasa-L-Hegde/airGuard-ai) | Multimodal urban pollution monitoring platform | DBSCAN · RandomForest · Gemini API · Gradio |
 | 🏟️ [**StadiumSense AI**](https://github.com/Manasa-L-Hegde/StadiumSense-AI) | GenAI-powered smart stadium platform (scored 87.53/100) | GenAI · Python |
 | 🌆 [**Urban Heat Island Mapping**](https://github.com/Manasa-L-Hegde/Urban_Heat_Island) | Hyperlocal heat-risk mapping system | scikit-learn · Folium · Streamlit |
-| 🗣️ [**DevFlow AI**](https://github.com/YOUR-GITHUB-USERNAME/DevFlow-AI) | Natural language → SQL (Top 1.7%, IBM BoB Hackathon) | Python · Groq/LLaMA · Streamlit |
+| 🗣️ [**DevFlow AI**](https://github.com/Manasa-L-Hegde/DevFlow-AI) | Natural language → SQL (Top 1.7%, IBM BoB Hackathon) | Python · Groq/LLaMA · Streamlit |
 | 🍃 [**Carbon Footprint Awareness Platform**](https://github.com/Manasa-L-Hegde/AI-powered-Carbon-Footprint-Awareness-Platform) | Sustainability tracking with GenAI prompts | Python |
 
 <details>
