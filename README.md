@@ -120,9 +120,6 @@ Sustainability tracking platform using GenAI prompts, built for Hack2Skill Chall
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Manasa-L-Hegde&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manasa-L-Hegde&layout=compact&theme=tokyonight&hide_border=true" />
-
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manasa-L-Hegde&theme=tokyonight&hide_border=true" />
