@@ -59,7 +59,7 @@ RandomForest-powered route risk predictor for Bengaluru commutes — **R² = 0.9
 </td>
 <td width="50%">
 
-### 🌫️ [AirGuard AI](https://github.com/Manasa-L-Hegde/airGaurd-ai.git)
+### 🌫️ [AirGuard AI](https://github.com/Manasa-L-Hegde/airguard-ai.git)
 Multimodal urban pollution detection platform, built for Hack2Skill's "Build with AI: Code for Communities".
 
 `DBSCAN` `RandomForest` `Gemini API` `Gradio`
