@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=2EA3F2&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Manasa+L+Hegde+%F0%9F%91%8B;Final-Year+ISE+Student+%40+DBIT;Data+Analyst+%2F+ML+Engineer;Currently%3A+SDE+Trainee+%40+Commonwealth+Bank+of+Australia" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=2EA3F2&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Manasa+L+Hegde+%F0%9F%91%8B;Final-Year+ISE+Student+%40+DBIT;Data+Analyst+%2F+ML+Engineer;%3A+SDE+Trainee+%40+Commonwealth+Bank+of+Australia" alt="Typing SVG" />
 
 <br/>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://manasa-l-hegde.github.io"><img src="https://img.shields.io/badge/Portfolio-2EA3F2?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/manasa-l-hegde"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://manasa-l-hegde.github.io/Manasa-L-Hegde-portfolio/"><img src="https://img.shields.io/badge/Portfolio-2EA3F2?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=Manasa-L-Hegde&label=Profile%20Views&color=2EA3F2&style=for-the-badge" alt="Profile views" />
@@ -18,9 +18,8 @@
 ## 👩‍💻 About Me
 
 - 🎓 Final-year **B.E. Information Science & Engineering**, Don Bosco Institute of Technology, Bengaluru (VTU) — **CGPA 9.14**
-- 💼 **Software Development Trainee Apprentice** @ Commonwealth Bank of Australia (via Teamlease NAPS)
-- 🎯 Targeting **Data Analyst** & **ML Engineer** roles — Nov/Dec 2026 campus placement cycle
-- 📊 Currently prepping for **Microsoft PL-300 (Power BI Data Analyst)** — exam Aug 15, 2026
+- 💼 **Software Developer Trainee ** @ Commonwealth Bank of Australia (via Teamlease NAPS)
+- 🎯 Targeting **Data Analyst** & **ML Engineer** roles 
 - 🏆 Top 1.7% — IBM BoB Hackathon (95/5,628) &nbsp;|&nbsp; Top 6.5% — HackerRank Orchestrate AI Agent Hackathon
 - 🌱 Learning roadmap: `Excel → SQL → Power BI → Python → Statistics → ML`
 
