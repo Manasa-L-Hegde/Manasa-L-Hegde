@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=2EA3F2&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Manasa+L+Hegde+%F0%9F%91%8B;Final-Year+ISE+Student+%40+DBIT;Data+Analyst+%2F+ML+Engineer;%2A+SDE+Trainee+%20+Commonwealth+Bank+of+Australia" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=2EA3F2&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Manasa+L+Hegde+%F0%9F%91%8B;Final-Year+ISE+Student+%40+DBIT;Data+Analyst+%2F+ML+Engineer;%2A+ SDE+Trainee+%20+Commonwealth+Bank+of+Australia" alt="Typing SVG" />
 
 <br/>
 
@@ -51,7 +51,7 @@
 <tr>
 <td width="50%">
 
-### 🚌 [Bengaluru Commute Decision Tool](https://github.com/Manasa-L-Hegde?tab=repositories)
+### 🚌 [Bengaluru Commute Decision Tool](https://github.com/Manasa-L-Hegde/bengaluru-commute-decision-tool.git)
 RandomForest-powered route risk predictor for Bengaluru commutes — **R² = 0.97**. Built for Google Cloud's Gen AI Academy APAC.
 
 `BigQuery` `RAPIDS cuDF` `Open-Meteo API` `Streamlit`
@@ -59,7 +59,7 @@ RandomForest-powered route risk predictor for Bengaluru commutes — **R² = 0.9
 </td>
 <td width="50%">
 
-### 🌫️ [AirGuard AI](https://github.com/Manasa-L-Hegde?tab=repositories)
+### 🌫️ [AirGuard AI](https://github.com/Manasa-L-Hegde/AirGaurd AI.git)
 Multimodal urban pollution detection platform, built for Hack2Skill's "Build with AI: Code for Communities".
 
 `DBSCAN` `RandomForest` `Gemini API` `Gradio`
@@ -69,7 +69,7 @@ Multimodal urban pollution detection platform, built for Hack2Skill's "Build wit
 <tr>
 <td width="50%">
 
-### 🏟️ [StadiumSense AI](https://github.com/Manasa-L-Hegde?tab=repositories)
+### 🏟️ [StadiumSense AI](https://github.com/Manasa-L-Hegde/StadiumSense AI.git)
 GenAI-powered smart stadium platform for the FIFA World Cup 2026 theme — scored **87.53/100**.
 
 `GenAI` `Gradio` `Gemini API` `DBSCAN`
@@ -77,7 +77,7 @@ GenAI-powered smart stadium platform for the FIFA World Cup 2026 theme — score
 </td>
 <td width="50%">
 
-### 🗣️ [DevFlow AI](https://github.com/Manasa-L-Hegde?tab=repositories)
+### 🗣️ [DevFlow AI](https://github.com/Manasa-L-Hegde/DevFlow AI.git)
 Natural language → SQL assistant — **Top 1.7%**, ranked 95th of 5,628 at the IBM BoB Hackathon.
 
 `Groq` `LLaMA` `Streamlit`
@@ -87,7 +87,7 @@ Natural language → SQL assistant — **Top 1.7%**, ranked 95th of 5,628 at the
 <tr>
 <td width="50%">
 
-### 🌆 Urban Heat Island Mapping
+### 🌆 [Urban Heat Island Mapping](https://github.com/Manasa-L-Hegde/Urban Heat Islan Mapping.git)
 Hyperlocal, ward-level heat-risk mapping system for Bengaluru, built for Code Carnage 2.0.
 
 `scikit-learn` `Pandas` `Folium` `Streamlit`
@@ -95,7 +95,7 @@ Hyperlocal, ward-level heat-risk mapping system for Bengaluru, built for Code Ca
 </td>
 <td width="50%">
 
-### 🍃 Carbon Footprint Awareness Platform
+### 🍃 [Carbon Footprint Awareness Platform](https://github.com/Manasa-L-Hegde/Carbon Footprint Awareness Platform.git)
 Sustainability tracking platform using GenAI prompts, built for Hack2Skill Challenge 3.
 
 `Python` `GenAI`
