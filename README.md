@@ -59,7 +59,7 @@ RandomForest-powered route risk predictor for Bengaluru commutes — **R² = 0.9
 </td>
 <td width="50%">
 
-### 🌫️ [AirGuard AI](https://github.com/Manasa-L-Hegde/AirGaurd AI.git)
+### 🌫️ [AirGuard AI](https://github.com/Manasa-L-Hegde/airGaurd-ai.git)
 Multimodal urban pollution detection platform, built for Hack2Skill's "Build with AI: Code for Communities".
 
 `DBSCAN` `RandomForest` `Gemini API` `Gradio`
@@ -69,7 +69,7 @@ Multimodal urban pollution detection platform, built for Hack2Skill's "Build wit
 <tr>
 <td width="50%">
 
-### 🏟️ [StadiumSense AI](https://github.com/Manasa-L-Hegde/StadiumSense AI.git)
+### 🏟️ [StadiumSense AI](https://github.com/Manasa-L-Hegde/StadiumSense-AI.git)
 GenAI-powered smart stadium platform for the FIFA World Cup 2026 theme — scored **87.53/100**.
 
 `GenAI` `Gradio` `Gemini API` `DBSCAN`
@@ -77,7 +77,7 @@ GenAI-powered smart stadium platform for the FIFA World Cup 2026 theme — score
 </td>
 <td width="50%">
 
-### 🗣️ [DevFlow AI](https://github.com/Manasa-L-Hegde/DevFlow AI.git)
+### 🗣️ [DevFlow AI](https://github.com/Manasa-L-Hegde/DevFlow-AI.git)
 Natural language → SQL assistant — **Top 1.7%**, ranked 95th of 5,628 at the IBM BoB Hackathon.
 
 `Groq` `LLaMA` `Streamlit`
@@ -87,7 +87,7 @@ Natural language → SQL assistant — **Top 1.7%**, ranked 95th of 5,628 at the
 <tr>
 <td width="50%">
 
-### 🌆 [Urban Heat Island Mapping](https://github.com/Manasa-L-Hegde/Urban Heat Islan Mapping.git)
+### 🌆 [Urban Heat Island Mapping](https://github.com/Manasa-L-Hegde/Urban_Heat_Island.git)
 Hyperlocal, ward-level heat-risk mapping system for Bengaluru, built for Code Carnage 2.0.
 
 `scikit-learn` `Pandas` `Folium` `Streamlit`
@@ -95,7 +95,7 @@ Hyperlocal, ward-level heat-risk mapping system for Bengaluru, built for Code Ca
 </td>
 <td width="50%">
 
-### 🍃 [Carbon Footprint Awareness Platform](https://github.com/Manasa-L-Hegde/Carbon Footprint Awareness Platform.git)
+### 🍃 [Carbon Footprint Awareness Platform](https://github.com/Manasa-L-Hegde/AI-powered-Carbon-Footprint-Awareness-Platform.git)
 Sustainability tracking platform using GenAI prompts, built for Hack2Skill Challenge 3.
 
 `Python` `GenAI`
@@ -143,8 +143,8 @@ Sustainability tracking platform using GenAI prompts, built for Hack2Skill Chall
 
 ### 📫 Let's Connect
 
-<a href="https://www.linkedin.com/in/Manasa-L-Hegde"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://manasa-l-hegde.github.io"><img src="https://img.shields.io/badge/Portfolio-2EA3F2?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/manasa-l-hegde"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://manasa-l-hegde.github.io/Manasa-L-Hegde-portfolio/"><img src="https://img.shields.io/badge/Portfolio-2EA3F2?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="manasalshegde@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
