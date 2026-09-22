@@ -102,7 +102,51 @@ Sustainability tracking platform using GenAI prompts, built for Hack2Skill Chall
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+### 🌾 [Krishi Sahayak](https://github.com/Manasa-L-Hegde/Krishi-Sahayak.git)
+Multi-layer agriculture advisory platform — crop recommendation (ML), yield/price forecasting (DL), and a multilingual RAG farmer advisory chatbot (GenAI). Major/capstone project, deployed on Azure.
+
+`FastAPI` `PyTorch` `FAISS` `Azure`
+
+</td>
+<td width="50%">
+
+### 🏨 [Hotel Booking & Dynamic Pricing](https://github.com/Manasa-L-Hegde/hotel-booking-dynamic-pricing.git)
+Modern hotel reservation and dynamic pricing system with demand-based pricing logic.
+
+`React` `FastAPI` `PostgreSQL` `Scikit-Learn`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ⚖️ [Nyaya Sahayak](https://github.com/Manasa-L-Hegde/Nyaya_Sahayak.git)
+Context-aware AI legal assistant for India — classifies legal issues, triages safety emergencies with instant helplines, and delivers bilingual (English/Hindi) guidance.
+
+`Next.js` `TypeScript` `Gemini API` `Tailwind`
+
+</td>
+<td width="50%">
+
+### ⭐ [ReviewSense](https://github.com/Manasa-L-Hegde/ReviewSense.git)
+Classifies restaurant reviews as positive or negative using TF-IDF vectorization and a Multinomial Naive Bayes classifier.
+
+`Python` `scikit-learn` `NLP`
+
+</td>
+</tr>
 </table>
+
+<br/>
+
+## 📁 More Projects
+
+- 📊 **[IPL Data Analysis Dashboard (Excel)](https://github.com/Manasa-L-Hegde/IPL-Data-Analysis-Dashboard-Excel.git)** — Interactive dashboard with pivot tables, charts, and slicers analyzing IPL team performance and match trends (2008–2022).
+- 📚 **[AI Study Assistant](https://github.com/Manasa-L-Hegde/AI-Study-Assistant.git)** — Streamlit app that turns any topic into explanations, notes, and quiz questions using AI.
+- 🎫 **[Support Triage Agent](https://github.com/Manasa-L-Hegde/Support_Triage_Agent.git)** — Deterministic, corpus-grounded support triage system with request classification, risk-based escalation, and retrieval-based response generation.
 
 <br/>
 
