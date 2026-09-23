@@ -11,17 +11,43 @@
 <img src="https://komarev.com/ghpvc/?username=Manasa-L-Hegde&label=Profile%20Views&color=2EA3F2&style=for-the-badge" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/Manasa-L-Hegde?label=Followers&style=for-the-badge&color=2EA3F2" alt="Followers" />
 
+<br/><br/>
+
+![CGPA](https://img.shields.io/badge/CGPA-9.14-2EA3F2?style=for-the-badge)
+![IBM BoB](https://img.shields.io/badge/IBM_BoB_Hackathon-Top_1.7%25-2EA3F2?style=for-the-badge)
+![GCP](https://img.shields.io/badge/Google_Cloud-Diamond_League-2EA3F2?style=for-the-badge)
+![CBA](https://img.shields.io/badge/CBA-SDE_Trainee_Apprentice-2EA3F2?style=for-the-badge)
+
 </div>
 
 <br/>
 
 ## 👩‍💻 About Me
 
-- 🎓 Final-year **B.E. Information Science & Engineering**, Don Bosco Institute of Technology, Bengaluru (VTU) — **CGPA 9.14**
-- 💼 **Software Developer Trainee ** @ Commonwealth Bank of Australia (via Teamlease NAPS)
-- 🎯 Targeting **Data Analyst** & **ML Engineer** roles 
-- 🏆 Top 1.7% — IBM BoB Hackathon (95/5,628) &nbsp;|&nbsp; Top 6.5% — HackerRank Orchestrate AI Agent Hackathon
-- 🌱 Learning roadmap: `Excel → SQL → Power BI → Python → Statistics → ML`
+```
+class Manasa:
+    def __init__(self):
+        self.role       = "Final-Year B.E. ISE Student @ DBIT (VTU)"
+        self.job        = "Software Developer Trainee @ Commonwealth Bank of Australia"
+        self.target     = ["Data Analyst", "ML Engineer"]
+        self.stack      = ["Excel", "SQL", "Power BI", "Python", "Statistics", "ML"]
+        self.highlights = ["CGPA 9.14", "Top 1.7% - IBM BoB Hackathon",
+                            "Top 6.5% - HackerRank Orchestrate AI Agent Hackathon"]
+
+    def currently(self):
+        return "Building ML/DA projects, chasing Nov-Dec 2026 placements 🚀"
+```
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Manasa-L-Hegde&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manasa-L-Hegde&layout=compact&theme=tokyonight&hide_border=true" width="35%" />
+
+</div>
 
 <br/>
 
@@ -52,6 +78,8 @@
 <td width="50%">
 
 ### 🚌 [Bengaluru Commute Decision Tool](https://github.com/Manasa-L-Hegde/bengaluru-commute-decision-tool.git)
+![Stars](https://img.shields.io/github/stars/Manasa-L-Hegde/bengaluru-commute-decision-tool?style=flat-square&color=2EA3F2) ![Forks](https://img.shields.io/github/forks/Manasa-L-Hegde/bengaluru-commute-decision-tool?style=flat-square&color=2EA3F2)
+
 RandomForest-powered route risk predictor for Bengaluru commutes — **R² = 0.97**. Built for Google Cloud's Gen AI Academy APAC.
 
 `BigQuery` `RAPIDS cuDF` `Open-Meteo API` `Streamlit`
@@ -60,6 +88,8 @@ RandomForest-powered route risk predictor for Bengaluru commutes — **R² = 0.9
 <td width="50%">
 
 ### 🌫️ [AirGuard AI](https://github.com/Manasa-L-Hegde/airguard-ai.git)
+![Stars](https://img.shields.io/github/stars/Manasa-L-Hegde/airguard-ai?style=flat-square&color=2EA3F2) ![Forks](https://img.shields.io/github/forks/Manasa-L-Hegde/airguard-ai?style=flat-square&color=2EA3F2)
+
 Multimodal urban pollution detection platform, built for Hack2Skill's "Build with AI: Code for Communities".
 
 `DBSCAN` `RandomForest` `Gemini API` `Gradio`
@@ -70,6 +100,8 @@ Multimodal urban pollution detection platform, built for Hack2Skill's "Build wit
 <td width="50%">
 
 ### 🏟️ [StadiumSense AI](https://github.com/Manasa-L-Hegde/StadiumSense-AI.git)
+![Stars](https://img.shields.io/github/stars/Manasa-L-Hegde/StadiumSense-AI?style=flat-square&color=2EA3F2) ![Forks](https://img.shields.io/github/forks/Manasa-L-Hegde/StadiumSense-AI?style=flat-square&color=2EA3F2)
+
 GenAI-powered smart stadium platform for the FIFA World Cup 2026 theme — scored **87.53/100**.
 
 `GenAI` `Gradio` `Gemini API` `DBSCAN`
@@ -78,6 +110,8 @@ GenAI-powered smart stadium platform for the FIFA World Cup 2026 theme — score
 <td width="50%">
 
 ### 🗣️ [DevFlow AI](https://github.com/Manasa-L-Hegde/DevFlow-AI.git)
+![Stars](https://img.shields.io/github/stars/Manasa-L-Hegde/DevFlow-AI?style=flat-square&color=2EA3F2) ![Forks](https://img.shields.io/github/forks/Manasa-L-Hegde/DevFlow-AI?style=flat-square&color=2EA3F2)
+
 Natural language → SQL assistant — **Top 1.7%**, ranked 95th of 5,628 at the IBM BoB Hackathon.
 
 `Groq` `LLaMA` `Streamlit`
@@ -88,6 +122,8 @@ Natural language → SQL assistant — **Top 1.7%**, ranked 95th of 5,628 at the
 <td width="50%">
 
 ### 🌆 [Urban Heat Island Mapping](https://github.com/Manasa-L-Hegde/Urban_Heat_Island.git)
+![Stars](https://img.shields.io/github/stars/Manasa-L-Hegde/Urban_Heat_Island?style=flat-square&color=2EA3F2) ![Forks](https://img.shields.io/github/forks/Manasa-L-Hegde/Urban_Heat_Island?style=flat-square&color=2EA3F2)
+
 Hyperlocal, ward-level heat-risk mapping system for Bengaluru, built for Code Carnage 2.0.
 
 `scikit-learn` `Pandas` `Folium` `Streamlit`
@@ -96,6 +132,8 @@ Hyperlocal, ward-level heat-risk mapping system for Bengaluru, built for Code Ca
 <td width="50%">
 
 ### 🍃 [Carbon Footprint Awareness Platform](https://github.com/Manasa-L-Hegde/AI-powered-Carbon-Footprint-Awareness-Platform.git)
+![Stars](https://img.shields.io/github/stars/Manasa-L-Hegde/AI-powered-Carbon-Footprint-Awareness-Platform?style=flat-square&color=2EA3F2) ![Forks](https://img.shields.io/github/forks/Manasa-L-Hegde/AI-powered-Carbon-Footprint-Awareness-Platform?style=flat-square&color=2EA3F2)
+
 Sustainability tracking platform using GenAI prompts, built for Hack2Skill Challenge 3.
 
 `Python` `GenAI`
@@ -106,6 +144,8 @@ Sustainability tracking platform using GenAI prompts, built for Hack2Skill Chall
 <td width="50%">
 
 ### 🌾 [Krishi Sahayak](https://github.com/Manasa-L-Hegde/Krishi-Sahayak.git)
+![Stars](https://img.shields.io/github/stars/Manasa-L-Hegde/Krishi-Sahayak?style=flat-square&color=2EA3F2) ![Forks](https://img.shields.io/github/forks/Manasa-L-Hegde/Krishi-Sahayak?style=flat-square&color=2EA3F2)
+
 Multi-layer agriculture advisory platform — crop recommendation (ML), yield/price forecasting (DL), and a multilingual RAG farmer advisory chatbot (GenAI). Major/capstone project, deployed on Azure.
 
 `FastAPI` `PyTorch` `FAISS` `Azure`
@@ -114,6 +154,8 @@ Multi-layer agriculture advisory platform — crop recommendation (ML), yield/pr
 <td width="50%">
 
 ### 🏨 [Hotel Booking & Dynamic Pricing](https://github.com/Manasa-L-Hegde/hotel-booking-dynamic-pricing.git)
+![Stars](https://img.shields.io/github/stars/Manasa-L-Hegde/hotel-booking-dynamic-pricing?style=flat-square&color=2EA3F2) ![Forks](https://img.shields.io/github/forks/Manasa-L-Hegde/hotel-booking-dynamic-pricing?style=flat-square&color=2EA3F2)
+
 Modern hotel reservation and dynamic pricing system with demand-based pricing logic.
 
 `React` `FastAPI` `PostgreSQL` `Scikit-Learn`
@@ -124,6 +166,8 @@ Modern hotel reservation and dynamic pricing system with demand-based pricing lo
 <td width="50%">
 
 ### ⚖️ [Nyaya Sahayak](https://github.com/Manasa-L-Hegde/Nyaya_Sahayak.git)
+![Stars](https://img.shields.io/github/stars/Manasa-L-Hegde/Nyaya_Sahayak?style=flat-square&color=2EA3F2) ![Forks](https://img.shields.io/github/forks/Manasa-L-Hegde/Nyaya_Sahayak?style=flat-square&color=2EA3F2)
+
 Context-aware AI legal assistant for India — classifies legal issues, triages safety emergencies with instant helplines, and delivers bilingual (English/Hindi) guidance.
 
 `Next.js` `TypeScript` `Gemini API` `Tailwind`
@@ -132,6 +176,8 @@ Context-aware AI legal assistant for India — classifies legal issues, triages 
 <td width="50%">
 
 ### ⭐ [ReviewSense](https://github.com/Manasa-L-Hegde/ReviewSense.git)
+![Stars](https://img.shields.io/github/stars/Manasa-L-Hegde/ReviewSense?style=flat-square&color=2EA3F2) ![Forks](https://img.shields.io/github/forks/Manasa-L-Hegde/ReviewSense?style=flat-square&color=2EA3F2)
+
 Classifies restaurant reviews as positive or negative using TF-IDF vectorization and a Multinomial Naive Bayes classifier.
 
 `Python` `scikit-learn` `NLP`
@@ -144,30 +190,52 @@ Classifies restaurant reviews as positive or negative using TF-IDF vectorization
 
 ## 📁 More Projects
 
-- 📊 **[IPL Data Analysis Dashboard (Excel)](https://github.com/Manasa-L-Hegde/IPL-Data-Analysis-Dashboard-Excel.git)** — Interactive dashboard with pivot tables, charts, and slicers analyzing IPL team performance and match trends (2008–2022).
-- 📚 **[AI Study Assistant](https://github.com/Manasa-L-Hegde/AI-Study-Assistant.git)** — Streamlit app that turns any topic into explanations, notes, and quiz questions using AI.
-- 🎫 **[Support Triage Agent](https://github.com/Manasa-L-Hegde/Support_Triage_Agent.git)** — Deterministic, corpus-grounded support triage system with request classification, risk-based escalation, and retrieval-based response generation.
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**📊 [IPL Data Analysis Dashboard](https://github.com/Manasa-L-Hegde/IPL-Data-Analysis-Dashboard-Excel.git)**
+Excel dashboard — pivot tables, charts, slicers on IPL team performance & trends (2008–2022).
+`Excel`
+
+</td>
+<td width="33%" valign="top">
+
+**📚 [AI Study Assistant](https://github.com/Manasa-L-Hegde/AI-Study-Assistant.git)**
+Streamlit app turning any topic into explanations, notes, and quizzes.
+`Python` `Streamlit`
+
+</td>
+<td width="33%" valign="top">
+
+**🎫 [Support Triage Agent](https://github.com/Manasa-L-Hegde/Support_Triage_Agent.git)**
+Corpus-grounded triage system — classification, escalation, retrieval-based responses.
+`Python`
+
+</td>
+</tr>
+</table>
 
 <br/>
 
 ## 📜 Certifications
 
-- ✅ Google Cloud Skills Boost — **Diamond League** (verified)
-- ✅ AWS Cloud Practitioner Essentials
-- ✅ Google Cloud Data Analytics Certificate
-- ✅ HackerRank SQL Intermediate Certificate
-- ✅ Gemini Certified University Student
-
-<br/>
-
-## 📊 GitHub Stats
-
 <div align="center">
 
+![GCP](https://img.shields.io/badge/Google_Cloud_Skills_Boost-Diamond_League-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner_Essentials-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP DA](https://img.shields.io/badge/Google_Cloud-Data_Analytics_Certificate-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![HackerRank](https://img.shields.io/badge/HackerRank-SQL_Intermediate-2EC866?style=flat-square&logo=hackerrank&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-Certified_University_Student-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+
+</div>
+
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Manasa-L-Hegde&theme=tokyonight&hide_border=true" />
+## 🏆 Trophies
 
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Manasa-L-Hegde&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div>
 
 <br/>
