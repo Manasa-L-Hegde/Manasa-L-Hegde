@@ -88,7 +88,7 @@ Natural language → SQL assistant — **Top 1.7%**, ranked 95th of 5,628 at the
 <td width="50%">
 
 ### 🌆 [Urban Heat Island Mapping](https://github.com/Manasa-L-Hegde/Urban_Heat_Island.git)
-Hyperlocal, ward-level heat-risk mapping system for Bengaluru, built for Code Carnage 2.0.
+Hyperlocal, ward-level heat-risk mapping system for Bengaluru, built for Code Carnage 2.0 .
 
 `scikit-learn` `Pandas` `Folium` `Streamlit`
 
